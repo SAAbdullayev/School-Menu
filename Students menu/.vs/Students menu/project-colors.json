@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "11fa6b01-7812-43cd-b153-03f2513f2f5e": {
+      "ProjectGuid": "11fa6b01-7812-43cd-b153-03f2513f2f5e",
+      "DisplayName": "School menu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
